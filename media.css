@@ -163,6 +163,12 @@
   .lenta1,  .lenta2,  .lenta4{
     display: none;
   }
+	    .pismo,    .pismo2,    .pismo1{
+      display: none;
+    }
+    .mark,     .mark1   , .mark2,.mark3{
+      display: none;
+    }
 }
 
 
